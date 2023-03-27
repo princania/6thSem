@@ -1,0 +1,1 @@
+1) This Version is not responsive and is best presentable in a dekstop on landscape mode.
